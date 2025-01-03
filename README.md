@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anni32
-- 👀 I’m interested in AWS, DevOps, javascript, electron
-- 🌱 I’m currently learning Javascript, AWS, and Lambda
+- 👀 I’m interested in AWS, DevOps, javascript, electron, learning Java for web development and containers.
+- 🌱 I’m currently learning Java, Javascript, AWS, and Lambda
 - 📫 How to reach me: asheis@gmail.com
 
 
